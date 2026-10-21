@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.pi/
+*.json
+!tests/fixtures/*.json
+.DS_Store
